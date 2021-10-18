@@ -2,7 +2,7 @@ const vm = new Vue({
     el: "#app",
     data(){
         return{
-            message: "Hello world",
+            message: "one small step for mankind...",
             newtodo: "",
             todos: []
             
